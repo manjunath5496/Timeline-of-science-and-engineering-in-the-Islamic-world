@@ -1,3 +1,5 @@
+<h2>Timeline of science and engineering in the Islamic world </h2>
+
 <h2><span id="Eighth_Century" class="mw-headline">Eighth Century</span></h2>
 <p><u><a title="Chemistry" href="https://en.wikipedia.org/wiki/Chemistry">Chemistry</a></u></p>
 <ul>
