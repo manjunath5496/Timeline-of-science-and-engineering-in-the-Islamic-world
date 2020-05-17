@@ -140,7 +140,8 @@ and Science</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-science-and-engineering-in-the-Islamic-world/blob/master/iasc(23).pdf" style="text-decoration:none;">Science in Medieval Islam: An Illustrated Introduction</a></li> 
  
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-science-and-engineering-in-the-Islamic-world/blob/master/iasc(24).pdf" style="text-decoration:none;">Pentagon Aliens</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-science-and-engineering-in-the-Islamic-world/blob/master/iasc(24).pdf" style="text-decoration:none;">Sciences in the Islamic Middle Ages: The reception and development of the ancient sciences
+</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-science-and-engineering-in-the-Islamic-world/blob/master/iasc(25).pdf" style="text-decoration:none;">Strategy For Science, Technology And Innovation In Islamic Countries</a></li>                              
  <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-science-and-engineering-in-the-Islamic-world/blob/master/iasc(26).pdf" style="text-decoration:none;">The Attitude of Islam Towards Science and Philosophy</a></li>
