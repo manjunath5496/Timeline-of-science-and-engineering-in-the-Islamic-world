@@ -93,3 +93,79 @@
 <ul>
 <li>The Arabic mathematician&nbsp;<a class="new" title="Mohammed Baqir Yazdi (page does not exist)" href="https://en.wikipedia.org/w/index.php?title=Mohammed_Baqir_Yazdi&amp;action=edit&amp;redlink=1">Mohammed Baqir Yazdi</a>&nbsp;discovered the pair of&nbsp;<a class="mw-redirect" title="Amicable number" href="https://en.wikipedia.org/wiki/Amicable_number">amicable numbers</a>&nbsp;9,363,584 and 9,437,056 for which he is jointly credited with&nbsp;<a class="mw-redirect" title="Descartes" href="https://en.wikipedia.org/wiki/Descartes">Descartes</a>.</li>
 </ul>
+</br>
+
+<h2>Books </h2>
+<ul>
+
+                             
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-science-and-engineering-in-the-Islamic-world/blob/master/iasc(1).pdf" style="text-decoration:none;">A History of Science in World Cultures</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-science-and-engineering-in-the-Islamic-world/blob/master/iasc(2).pdf" style="text-decoration:none;">Aladdin's Lamp: How Greek Science Came to Europe Through the Islamic World</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-science-and-engineering-in-the-Islamic-world/blob/master/iasc(3).pdf" style="text-decoration:none;">An illusion of harmony: science and religion in Islam</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-science-and-engineering-in-the-Islamic-world/blob/master/iasc(4).pdf" style="text-decoration:none;">Aristotle's Rhetoric in the East: Islamic Philosophy, Theology
+and Science</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-science-and-engineering-in-the-Islamic-world/blob/master/iasc(5).pdf" style="text-decoration:none;">God's Philosophers: How the Medieval World Laid the Foundations of Modern Science</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-science-and-engineering-in-the-Islamic-world/blob/master/iasc(6).pdf" style="text-decoration:none;">Islam and Science: Religious Orthodoxy and The Battle for Rationality</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-science-and-engineering-in-the-Islamic-world/blob/master/iasc(7).pdf" style="text-decoration:none;">Islam and the Discoveries of Modern Science</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-science-and-engineering-in-the-Islamic-world/blob/master/iasc(8).pdf" style="text-decoration:none;"> Islam, Modernity, and the Human Sciences </a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-science-and-engineering-in-the-Islamic-world/blob/master/iasc(9).pdf" style="text-decoration:none;">Islam: Questions And Answers: Volume 3: The Qur'aan and it's Sciences</a></li>
+  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-science-and-engineering-in-the-Islamic-world/blob/master/iasc(10).pdf" style="text-decoration:none;">Islamic Perspectives on Science and Technology </a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-science-and-engineering-in-the-Islamic-world/blob/master/iasc(11).pdf" style="text-decoration:none;">Islamic Science and the Making of the European Renaissance</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-science-and-engineering-in-the-Islamic-world/blob/master/iasc(12).pdf" style="text-decoration:none;">Islamic Theology and the Philosophy of Science: The Metaphysics of Islamic Monotheism</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-science-and-engineering-in-the-Islamic-world/blob/master/iasc(13).pdf" style="text-decoration:none;">Islam's Quantum Question: Reconciling Muslim Tradition and Modern Science</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-science-and-engineering-in-the-Islamic-world/blob/master/iasc(14).pdf" style="text-decoration:none;">Light from the East: How the Science of Medieval Islam helped to shape the Western World  </a></li>
+                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-science-and-engineering-in-the-Islamic-world/blob/master/iasc(15).pdf" style="text-decoration:none;">Lost Discoveries: The Ancient Roots of Modern Science</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-science-and-engineering-in-the-Islamic-world/blob/master/iasc(16).pdf" style="text-decoration:none;">Pathfinders: The Golden Age of Arabic Science</a></li>
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-science-and-engineering-in-the-Islamic-world/blob/master/iasc(17).pdf" style="text-decoration:none;">Qur'an and Science in Depth</a></li>   
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-science-and-engineering-in-the-Islamic-world/blob/master/iasc(18).pdf" style="text-decoration:none;">Science and Islam: A History</a></li> 
+
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-science-and-engineering-in-the-Islamic-world/blob/master/iasc(19).pdf" style="text-decoration:none;"> Science and Civilization in Islam</a></li> 
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-science-and-engineering-in-the-Islamic-world/blob/master/iasc(20).pdf" style="text-decoration:none;">Science and Islam</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-science-and-engineering-in-the-Islamic-world/blob/master/iasc(21).pdf" style="text-decoration:none;">Science and Religion around the World</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-science-and-engineering-in-the-Islamic-world/blob/master/iasc(22).pdf" style="text-decoration:none;">Encyclopedia of Muslim World</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-science-and-engineering-in-the-Islamic-world/blob/master/iasc(23).pdf" style="text-decoration:none;">Science in Medieval Islam: An Illustrated Introduction</a></li> 
+ 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-science-and-engineering-in-the-Islamic-world/blob/master/iasc(24).pdf" style="text-decoration:none;">Pentagon Aliens</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-science-and-engineering-in-the-Islamic-world/blob/master/iasc(25).pdf" style="text-decoration:none;">Strategy For Science, Technology And Innovation In Islamic Countries</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-science-and-engineering-in-the-Islamic-world/blob/master/iasc(26).pdf" style="text-decoration:none;">The Attitude of Islam Towards Science and Philosophy</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-science-and-engineering-in-the-Islamic-world/blob/master/iasc(27).pdf" style="text-decoration:none;">The House of Wisdom: How Arabic Science Saved Ancient Knowledge and Gave Us the Renaissance </a></li>
+   
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-science-and-engineering-in-the-Islamic-world/blob/master/iasc(28).pdf" style="text-decoration:none;">The Iranian Metaphysicals: Explorations in Science, Islam, and the Uncanny</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-science-and-engineering-in-the-Islamic-world/blob/master/iasc(29).pdf" style="text-decoration:none;">The Lighthouse and the Observatory: Islam, Science, and Empire in Late Ottoman Egypt</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-science-and-engineering-in-the-Islamic-world/blob/master/iasc(30).pdf" style="text-decoration:none;">The Making of Islamic Science</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-science-and-engineering-in-the-Islamic-world/blob/master/iasc(31).pdf" style="text-decoration:none;">The Medieval Islamic Hospital Medicine, Religion, and Charity</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-science-and-engineering-in-the-Islamic-world/blob/master/iasc(32).pdf" style="text-decoration:none;">The new atheism: taking a stand for science and reason</a></li> 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-science-and-engineering-in-the-Islamic-world/blob/master/iasc(33).pdf" style="text-decoration:none;">The Physical Theory of Kalam: Atoms, Space, and Void in Basrian Mu'Tazili Cosmology </a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-science-and-engineering-in-the-Islamic-world/blob/master/iasc(34).pdf" style="text-decoration:none;">The Rise of Early Modern Science: Islam, China and the West</a></li> 
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-science-and-engineering-in-the-Islamic-world/blob/master/iasc(35).pdf" style="text-decoration:none;">Mathematical Instrumentation in Fourteenth-Century Egypt and Syria: The Illustrated Treatise of Najm al-Din al-Misri</a></li> 
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-science-and-engineering-in-the-Islamic-world/blob/master/iasc(36).pdf" style="text-decoration:none;">Islamic Theology and Philosophy</a></li> 
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-science-and-engineering-in-the-Islamic-world/blob/master/iasc(37).pdf" style="text-decoration:none;">5000 Years of Geometry: Mathematics in History and Culture</a></li> 
+  
+  
+  
+  </ul>
